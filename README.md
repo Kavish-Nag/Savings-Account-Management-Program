@@ -1,6 +1,5 @@
 
 
-```md
 # Savings Account Management Program
 
 This is a simple Python program that simulates the management of savings accounts. Users can open an account, deposit money, withdraw money, and display user information.
@@ -114,7 +113,3 @@ This is a simple Python program that simulates the management of savings account
 - All users share the same data list (`Lst`), so if multiple accounts are opened, the data may not be stored correctly.
 - Basic error handling is in place, but the program can be improved for better data management and validation.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
