@@ -16,7 +16,7 @@ This is a simple Python program that simulates the management of savings account
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/savings-account-management.git
+    git clone https://github.com/Kavish-Nag/savings-account-management.git
     ```
 
 2. Navigate to the project directory:
